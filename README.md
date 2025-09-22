@@ -9,7 +9,7 @@ The goal is to practice consistency, improve problem-solving skills, and track m
 - I’ll update this repo daily with new challenges and solutions.
 
 ## ✅ Progress Tracker
-- [x] **Day 0** – [Click here to view the challenge details (PDF)] (./Problem Statements/Day0.pdf)  
+- [x] **Day 0** – [Click here to view the challenge details (PDF)] (./Problem%20Statements/Day0.pdf)  
 - [x] **Day 1** – [Click here to view the challenge details (PDF)] (Problem Statements/Day1.pdf)  
 - [x] **Day 2** – [Click here to view the challenge details (PDF)] (Problem Statements/Day2.pdf)
 - [x] **Day 3** – [Click here to view the challenge details (PDF)] (Problem Statements/Day3.pdf)  
