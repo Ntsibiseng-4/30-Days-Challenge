@@ -9,17 +9,15 @@ The goal is to practice consistency, improve problem-solving skills, and track m
 - I’ll update this repo daily with new challenges and solutions.
 
 ## ✅ Progress Tracker
-- [x] **Day 0** – *(To complete this challenge, you must save a line of input from stdin to a variable, print Hello, World. on a single line,
-   and finally print the value of your variable on a second line.)*  
-- [x] **Day 1** – *(Declare 3 variables: one of type int, one of type double, and one of type String.
-   Read 3 lines of input from stdin (according to the sequence given in the Input Format section below) and initialize your 3 variables.
-   Use the + operator to perform the following operations:
-   Print the sum of i plus your int variable on a new line.
-   Print the sum of d plus your double variable to a scale of one decimal place on a new line.
-   Concatenate s with the string you read as input and print the result on a new line.)*  
-- [x] **Day 2** – *(Given the meal price (base cost of a meal), tip percent (the percentage of the meal price 
-   being added as tip), and tax percent (the percentage of the meal price being added as tax) for a meal, find and print the meal's total cost. 
-   Round the result to the nearest integer.)*  
-- [ ] **Day 3** – *(to be added)*  
-- [ ] **Day 4** – *(to be added)*  
-- [ ] **Day 5** – *(to be added)* 
+- [x] **Day 0** – [Click here to view the challenge details (PDF)](Problem Statements/Day0.pdf)  
+- [x] **Day 1** – [Click here to view the challenge details (PDF)](Problem Statements/Day1.pdf)  
+- [x] **Day 2** – [Click here to view the challenge details (PDF)](Problem Statements/Day2.pdf)
+- [x] **Day 3** – [Click here to view the challenge details (PDF)](Problem Statements/Day3.pdf)  
+- [x] **Day 4** – [Click here to view the challenge details (PDF)](Problem Statements/Day4.pdf)  
+- [x] **Day 5** – [Click here to view the challenge details (PDF)](Problem Statements/Day5.pdf)
+- [x] **Day 6** – [Click here to view the challenge details (PDF)](Problem Statements/Day6.pdf)  
+- [x] **Day 7** – [Click here to view the challenge details (PDF)](Problem Statements/Day7.pdf)  
+- [x] **Day 8** – [Click here to view the challenge details (PDF)](Problem Statements/Day8.pdf)
+- [x] **Day 9** – [Click here to view the challenge details (PDF)](Problem Statements/Day9.pdf)  
+- [x] **Day 10** – [Click here to view the challenge details (PDF)](Problem Statements/Day10.pdf)  
+- [x] **Day 11** – [Click here to view the challenge details (PDF)](Problem Statements/Day11.pdf)
